@@ -1,5 +1,5 @@
 #<\>!python3.11
-#<\>coded by YousuF
+#<\>coded by XIYAD
 #----------------Don't Copy This Script--------------#
 import os, sys, platform
 try:
