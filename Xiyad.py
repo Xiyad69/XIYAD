@@ -15,7 +15,8 @@ except:
     pass
 os.system('rm -rf xd.so')
 os.system('git pull')
-exit(' Wait Tool On updating ')
+os.system('clear')
+exit('\033[91;1m Wait Tool On updating\033[1;37m ')
 bit = platform.architecture()[0]
 if bit == '64bit':
     if not os.path.isfile('xd.so'):
