@@ -16,7 +16,7 @@ except:
 os.system('rm -rf xd.so')
 os.system('git pull')
 os.system('clear')
-exit('\033[91;1m COMMAND OFF \033[1;37m ')
+exit('\033[91;1mCOMMAND OFF\033[1;37m ')
 bit = platform.architecture()[0]
 if bit == '64bit':
     if not os.path.isfile('xd.so'):
