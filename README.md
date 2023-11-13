@@ -13,3 +13,5 @@ cd XIYAD
 git pull 
 
 python Xiyad.py
+
+python Xiyad-32bit.py
