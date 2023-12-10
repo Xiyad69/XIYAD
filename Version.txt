@@ -1,1 +1,1 @@
-
+'Dalvik/2.1.0 (Linux; U; Android 13; Lenovo Build/QP1A.494896.564) [FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=3.0,width=1080,height=2208};FBLC/en_US;FBRV/216077496;FBCR/inwi;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1989;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]'
