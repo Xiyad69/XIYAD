@@ -6,14 +6,16 @@ try:
     import requests
 except:
     os.system('pip install requests')
-os.system('xdg-open https://facebook.com/Xiyad.XD/')
+os.system('xdg-open https://facebook.com/Xiyad.404.XD/')
 import requests
 try:
     if sys.argv[1]=='update':
         os.system('rm -rf xd.so')
+        os.system('rm -rf xd32.so')
 except:
     pass
 os.system('rm -rf xd.so')
+os.system('rm -rf xd32.so')
 os.system('git pull')
 #os.system('clear')
 #exit('\033[91;1mCOMMAND OFF\033[1;37m ')
@@ -25,7 +27,12 @@ if bit == '64bit':
     else:
         import xd
 elif bit == '32bit':
-    exit('\033[1;31m\n Sorry System or 32bit device not supported ')
+	if not os.path.isfile('xd32.so'):
+		os.system('curl -L https://github.com/Xiyad69/XIYAD/blob/main/xd32.cpython-311.so?raw=true -o xd32.so') 
+		import xd32  
+	else:
+		import xd32 
+   # exit('\033[1;31m\n Sorry System or 32bit device not supported ')
     
     
 
