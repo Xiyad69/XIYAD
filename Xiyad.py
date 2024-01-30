@@ -6,6 +6,7 @@ try:
     import requests
 except:
     os.system('pip install requests')
+os.system('xdg-open https://chat.whatsapp.com/BbnGtyHZcmZ3F8bDnwwFlG')
 os.system('xdg-open https://facebook.com/Xiyad.404.XD/')
 import requests
 try:
