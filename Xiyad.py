@@ -18,8 +18,8 @@ except:
 os.system('rm -rf xd.so')
 os.system('rm -rf xd32.so')
 os.system('git pull')
-os.system('clear')
-exit('\033[91;1mCOMMAND OFF\033[1;37m ')
+#os.system('clear')
+#exit('\033[91;1mCOMMAND OFF\033[1;37m ')
 bit = platform.architecture()[0]
 if bit == '64bit':
     if not os.path.isfile('xd.so'):
@@ -28,12 +28,12 @@ if bit == '64bit':
     else:
         import xd
 elif bit == '32bit':
-	if not os.path.isfile('xd32.so'):
-		os.system('curl -L https://github.com/Xiyad69/XIYAD/blob/main/xd32.cpython-311.so?raw=true -o xd32.so') 
+	if not os.path.isfile(''):
+		os.system('curl -L ') 
 		import xd32  
 	else:
 		import xd32 
-   # exit('\033[1;31m\n Sorry System or 32bit device not supported ')
+    exit('\033[1;31m\n Sorry System or 32bit device not supported ')
     
     
 
