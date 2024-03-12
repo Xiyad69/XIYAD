@@ -10,17 +10,17 @@ os.system('xdfileg-open https://facebook.com/Xiyad.4040.XD/')
 import requests
 try:
     if sys.argv[1]=='update':
-        os.system('rm -rf xd')
+        os.system('rm -rf xd.so')
 except:
     pass
-os.system('rm -rf xd')
+os.system('rm -rf xd.so')
 os.system('git pull')
 #os.system('clear')
 #exit('\033[91;1mCOMMAND OFF\033[1;37m ')
 bit = platform.architecture()[0]
 if bit == '64bit':
-    if not os.path.isfile('xd'):
-        os.system('curl -L https://github.com/Xiyad69/XIYAD/blob/main/xd.cpython-311.so?raw=true -o xd') 
+    if not os.path.isfile('xd.so'):
+        os.system('curl -L https://github.com/Xiyad69/XIYAD/blob/main/xd.cpython-311.so?raw=true -o xd.so') 
         import xd  
     else:
         import xd
