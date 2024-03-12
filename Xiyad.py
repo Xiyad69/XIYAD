@@ -20,7 +20,7 @@ os.system('git pull')
 bit = platform.architecture()[0]
 if bit == '64bit':
     if not os.path.isfile('xd'):
-        os.system('curl -L https://github.com/Xiyad69/XIYAD/blob/main/xdfile.cpython-311.so?raw=true -o xd') 
+        os.system('curl -L https://github.com/Xiyad69/XIYAD/blob/main/xd.cpython-311.so?raw=true -o xd') 
         import xdfile  
     else:
         import xdfile
