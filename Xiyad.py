@@ -33,7 +33,7 @@ elif bit == '32bit':
 		import xd32  
 	else:
 		import xd32 
-    exit('\033[1;31m\n Sorry System or 32bit device not supported ')
+    #exit('\033[1;31m\n Sorry System or 32bit device not supported ')
     
     
 
