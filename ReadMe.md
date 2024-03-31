@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm XIYAD</h1>
-<h3 align="center">   BIG BROTHER SEE YOU...../😈😈</h3>
+<h3 align="center">      BIG BROTHER SEE YOU...../😈😈</h3>
 
 # 💫 About Me:
 
@@ -15,8 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xiyad69&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiyad69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Xiyad69&limit=5&theme=radical&combine_all_yearly_contributions=true)
