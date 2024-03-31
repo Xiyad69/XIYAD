@@ -1,10 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 <h1 align="center">Hi, I'm XIYAD</h1>
 <h3 align="center">BIG BROTHER SEE YOU...../😈😈</h3>
-
-<img align="left" alt="coding" width="400"src>
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 <img align="left"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="ashutosh pmishra"/></p>
 
