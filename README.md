@@ -13,7 +13,7 @@
 - **Feature 4**: Random Clone
 - **Feature 5**: Friends Checker Or Etc
 
-## :rocket: Installation
+## :rocket: Installation For 64bit
 
 ```bash
 pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
@@ -29,9 +29,8 @@ cd XIYAD
 git pull
 
 python Xiyad.py
-
-python Xiyad-32bit.py 
 ```
+## :rocket: Installation For 32bit
 
 ```bash
 pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
