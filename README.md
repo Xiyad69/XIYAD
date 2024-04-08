@@ -6,7 +6,7 @@
 
 [Click To Buy This Tool](https://wa.me/+8801778271406)
 
-## : HAMMER_and_WRENCHh : FEATURES
+## FEATURES
 - **Feature 1**: File Clone
 - **Feature 2**: Random Clone
 - **Feature 3**: Gmail Clone
@@ -33,9 +33,24 @@ python Xiyad.py
 python Xiyad-32bit.py 
 ```
 
+```bash
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+
+cd
+
+rm -rf XIYAD
+
+git clone https://github.com/Xiyad69/XIYAD.git
+
+cd XIYAD
+
+git pull
+
+python Xiyad-32bit.py 
+```
 ## :telephone_receiver: Contact Information
 
 - **Email**: [Admin](xiyadmahfuz@gmail.com)
 - **Facebook**: [Riyad Mahfuz](https://www.facebook.com/Xiyad.404.XD)
-- **Instagram**: [mohammad_jisan4](https://instagram.com/xiyad420)
+- **Instagram**: [Riyad Mahfuz](https://instagram.com/xiyad420)
 
