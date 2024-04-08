@@ -1,7 +1,6 @@
 ## :star2: Overview
 
-<img src="./Picsart_24-04-08_14-40-27-285.jpg
-" width="180" alt="">
+<img src="./Picsart_24-04-08_14-40-27-285.jpg" width="180" alt="">
 
 [Note: This Tools Are Paid So You Need Permission To Use This Tools]
 
@@ -31,10 +30,12 @@ git pull
 
 python Xiyad.py
 
-python Xiyad-32bit.py```
+python Xiyad-32bit.py 
+```
 
 ## :telephone_receiver: Contact Information
 
 - **Email**: [Admin](xiyadmahfuz@gmail.com)
 - **Facebook**: [Riyad Mahfuz](https://www.facebook.com/Xiyad.404.XD)
 - **Instagram**: [mohammad_jisan4](https://instagram.com/xiyad420)
+
