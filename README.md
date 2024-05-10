@@ -10,7 +10,6 @@
 - **Feature 1**: File Clone
 - **Feature 2**: Random Clone
 - **Feature 3**: Gmail Clone
-- **Feature 4**: Random Clone
 - **Feature 5**: Friends Checker Or Etc
 
 ## :rocket: Installation For 64bit
@@ -22,13 +21,13 @@ cd
 
 rm -rf XIYAD
 
-git clone https://github.com/Xiyad69/XIYAD.git
+git clone --depth=1 https://github.com/Xiyad69/XIYAD.git
 
 cd XIYAD
 
 git pull
 
-python Xiyad.py
+python Xiyad.py 
 ```
 ## :rocket: Installation For 32bit
 
